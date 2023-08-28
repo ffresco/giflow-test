@@ -1,0 +1,4 @@
+    <artifactId>back-end-microservice-cc</artifactId>
+    <name>Backend Microservicio Credit Cards</name>
+    <packaging>jar</packaging>
+    <version>1.90.0</version>
